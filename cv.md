@@ -40,6 +40,7 @@ I know the basics of a backend developer - Object-Oriented Programming
 </BODY>
 </HTML>
 ```
+
   
   ### Education:
  * Secondary medical education - dental technician 
