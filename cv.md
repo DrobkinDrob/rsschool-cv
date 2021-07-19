@@ -47,5 +47,5 @@ I know the basics of a backend developer - Object-Oriented Programming
  * Head Fist: Pyphon
  
   
-  Languages - English B1
+  * Languages - English B1
 
