@@ -1,1 +1,1 @@
-# rsschool-cv
+https://DrobkinDrob.github.io/rsschool-cv/cv
