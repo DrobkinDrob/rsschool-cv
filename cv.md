@@ -23,7 +23,7 @@ I know the basics of a backend developer - Object-Oriented Programming
   * PyCharm 
   * Open Server Panel
   ___
- Code sample
+ ### **Code sample**
  ```html <HTML>
 <HEAD>
 <TITLE>BestRockers</TITLE>
@@ -40,8 +40,10 @@ I know the basics of a backend developer - Object-Oriented Programming
 </BODY>
 </HTML>
 ```
-### Education:
+  
+  ### Education:
  * Secondary medical education - dental technician 
  
-Languages - English B1
+  
+  Languages - English B1
 
