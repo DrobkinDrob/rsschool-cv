@@ -43,6 +43,8 @@ I know the basics of a backend developer - Object-Oriented Programming
   
   ### Education:
  * Secondary medical education - dental technician 
+ * Head Fist: Java
+ * Head Fist: Pyphon
  
   
   Languages - English B1
